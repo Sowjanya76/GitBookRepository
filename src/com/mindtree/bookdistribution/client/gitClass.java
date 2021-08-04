@@ -5,6 +5,7 @@ public class gitClass {
 		 int id2=2;
 		  String name2="sowji";
 		  System.out.println(id2 +" "+name2);
+
 	}
   
   
